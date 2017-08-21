@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UdaQuizApp</string>
+    
+    <string name="quiz_one">android常用布局有哪些？</string>
+    <string name="quiz_one_answer_one">Linear</string>
+    <string name="quiz_one_answer_two">Relative</string>
+    <string name="quiz_one_answer_three">Constraint</string>
+
+    <string name="quiz_two">Activity通过Intent传递吗？</string>
+    <string name="quiz_two_answer_one">true</string>
+    <string name="quiz_two_answer_two">false</string>
+
+    <string name="quiz_three">Android布局文件和逻辑代码是分开的吗？</string>
+    <string name="quiz_three_answer">yes</string>
+
+    <string name="quiz_four">LinearLayout有哪两种排列方式？</string>
+    <string name="quiz_four_answer_one">horizontal</string>
+    <string name="quiz_four_answer_two">vertical</string>
+    <string name="quiz_four_answer_three">justify</string>
+</resources>
